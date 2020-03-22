@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-image: url("jbbromydrpdz.jpg");
+  background-size: cover;
+  color: white;
+}
+h1 {
+  margin: 15px 0px 70px 0px;
+}
+button {
+  width: 100px;
+  padding: 15px;
+  margin: 10px;
+  font-size: 20px;
+  font-family: fantasy;
+  background-color: azure;
+  border-color: azure;
+}
+#answers {
+  margin: 2px;
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+#answer {
+  font-size: 30px;
+}
