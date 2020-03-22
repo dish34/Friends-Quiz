@@ -3,27 +3,27 @@ const questions = [
     question: "Tell him to email me at www-dot-haha-not-so-much-dot-com!",
     choices: ["Ross", "Chandler", "Monica"],
     answer: "Chandler"
+  },
+  {
+    question: "I wish I could, but I don’t want to.",
+    choices: ["Monica", "Chandler", "Phoebe"],
+    answer: "Phoebe"
+  },
+  {
+    question: "Well, the fridge broke so I had to eat everything.",
+    choices: ["Joey", "Chandler", "Phoebe"],
+    answer: "Joey"
+  },
+  {
+    question: "Welcome to the real world,it sucks, you’re gonna love it.",
+    choices: ["Ross", "Chandler", "Monica"],
+    answer: "Monica"
+  },
+  {
+    question: "My sandwich, My sandwich !!",
+    choices: ["Ross", "Chandler", "Monica"],
+    answer: "Ross"
   }
-  //   {
-  //     question: "I wish I could, but I don’t want to.",
-  //     choices: ["Monica", "Chandler", "Phoebe"],
-  //     answer: "Phoebe"
-  //   },
-  //   {
-  //     question: "Well, the fridge broke so I had to eat everything.",
-  //     choices: ["Joey", "Chandler", "Phoebe"],
-  //     answer: "Joey"
-  //   },
-  //   {
-  //     question: "Welcome to the real world,it sucks, you’re gonna love it.",
-  //     choices: ["Ross", "Chandler", "Monica"],
-  //     answer: "Monica"
-  //   },
-  //   {
-  //     question: "My sandwich, My sandwich !!",
-  //     choices: ["Ross", "Chandler", "Monica"],
-  //     answer: "Ross"
-  //   }
 ];
 let question_index = 0;
 let correct = 0;
